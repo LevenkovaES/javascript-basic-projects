@@ -73,7 +73,5 @@ scrollLinks.forEach((link) => {
         if (linksContainer) {
             linksContainer.style.height = "0";
         }
-        // linksContainer?.classList.remove("show-links");
     });
 });
-console.log(date);
